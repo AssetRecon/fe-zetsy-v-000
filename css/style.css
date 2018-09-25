@@ -27,3 +27,7 @@ h1 {
 	font-weight: normal;
 	border-bottom: 1px solid #ccc;
 }
+
+body {
+	background: #f3ebe9;
+}
